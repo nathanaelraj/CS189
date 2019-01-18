@@ -1,0 +1,20 @@
+broccoli_0 cooked broccoli in a plastic bag
+broccoli_1 cooked broccoli 
+bell_peppers_0 a few red bell peppers
+bell_peppers_1 two yellow bell peppers
+cabbage_0 a few balls of cabbage 
+cabbage_1 a few balls of cabbage 
+carrot_0 2 carrots in a bag
+carrot_1 a few carrots in a bag
+celery_0 celery in a bag
+celery_1 celery in a bag
+garlic_0 garlic in a bag
+garlic_1 garlic in a bag
+ginger_0 a few pieces of ginger
+ginger_1 a few pieces of ginger
+potato_0 a couple of potatoes
+potato_1 a couple of potatoes
+spinach_0 spinach in a bag
+spinach_1 spinach in a bag
+tomato_0 a few tomatoes
+tomato_1 a few tomatoes
